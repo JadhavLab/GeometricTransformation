@@ -17,11 +17,11 @@ Code accompanying the paper: Tang, W., Shin, J. D. & Jadhav, S. P. (2023). Geome
 GETTING STARTED
 ===============
 
-Launch MATLAB and cd into the directory containing the code (e.g. '/Tang_CellRep_2023/').
+Launch MATLAB and cd into the directory containing the code (e.g. '/CellRep_2023/').
 
 
 Time-filter framework: Jadhav Lab (Brandeis University) and Frank Lab (UCSF)
-Other files in the directory (with all sub-folders) needed in path for running the time-filter framework and other analysis:  
+Other files in the directory (with all sub-folders) needed in path for running the time-filter framework and other analysis:
 \usrlocal\   
 \Src_Matlab\  
 \Sleep_Code\
